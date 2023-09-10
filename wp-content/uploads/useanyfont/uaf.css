@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'fusion-pixel';
+					src: url('https://ivantea-dev.github.io/wp-content/uploads/useanyfont/6883Fusion-Pixel.woff2') format('woff2'),
+						url('https://ivantea-dev.github.io/wp-content/uploads/useanyfont/6883Fusion-Pixel.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.fusion-pixel{font-family: 'fusion-pixel' !important;}
+
+		

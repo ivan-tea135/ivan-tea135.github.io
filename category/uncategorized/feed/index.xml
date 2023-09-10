@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; ivan_tea</title>
+	<atom:link href="https://ivantea-dev.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ivantea-dev.github.io</link>
+	<description>Personal Website</description>
+	<lastBuildDate>Sun, 10 Sep 2023 15:41:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://ivantea-dev.github.io/wp-content/uploads/2023/09/cropped-panda-export-1-32x32.png</url>
+	<title>Uncategorized &#8211; ivan_tea</title>
+	<link>https://ivantea-dev.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How I Created My Personal Website in 3 Days.</title>
+		<link>https://ivantea-dev.github.io/uncategorized/how-i-created-my-personal-website-in-3-days/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 10 Sep 2023 14:54:20 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://ivantea-dev.github.io/?p=1099</guid>
+
+					<description><![CDATA[One day, when I needed to specify privacy policy’s URL for my Android game and I didn’t know how I would host the HTML file on the web, I recalled that my brother had sent me a book through a link with host name containing “.github.io”. That’s how I got to know about Github Pages. [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1099" class="elementor elementor-1099">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-3944375 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3944375" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6469850" data-id="6469850" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1133032 elementor-widget elementor-widget-text-editor" data-id="1133032" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.15.0 - 20-08-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>One day, when I needed to specify privacy policy’s URL for my Android game and I didn’t know how I would host the HTML file on the web, I recalled that my brother had sent me a book through a link with host name containing “.github.io”. That’s how I got to know about Github Pages. And then a thought travelled through my mind. What if I would create a website that is being hosted on Github, since it’s free, and people would be able to play web-games on it. Then I watched videos on YouTube saying you should make your own website, but these were probably just hosting provider advertisings.</p><p>Thus, I had the free hosting and domain name. There were more issues though. I wasn’t able to program on HTML, JavaScript nor CSS and I had no intention to learn them. Back then I thought that even creating relatively ugly and the most minimalistic website would require these languages. Then I reminded about Squarespace. I guess your advertisings aren’t useless! Still though, I was not willing to pay you anything, because there he was, my hero, WordPress.</p><p>As soon as I heard that it’s free and open-source, I knew I would have no problems with it. And then you get to know that you control your website with plugins. And then you get to know that ALL, mostly ALL plugins have limited functionality due to the… PREMIUM. bruh. Web-design in a nutshell. Even adding a custom font is scuffed, I had spent so much time to set up a freaking font because Elementor lets to do it only for the „pros“. Then I installed a free plugin, and then turns out it’s not compatible with my theme! I installed another plugin following someone’s tutorial on YouTube, where I can add only one font, because I need to pay if I want to add more. Fortunately, I just wanted to add a single custom font, but still this was a real pain.</p><p>I started making website in the evening of the 1st of September and I finished it mid-day on the 3rd of September. If you want to create your own website, you can setup WordPress locally with XAMPP (if you want to push it to Github) and follow the tutorial I had followed:</p><p><a href="https://www.youtube.com/watch?v=O79pJ7qXwoE">freeCodeCamp’s WordPress website creation tutorial</a></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

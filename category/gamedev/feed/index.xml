@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gamedev &#8211; ivan_tea</title>
+	<atom:link href="https://ivantea-dev.github.io/category/gamedev/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ivantea-dev.github.io</link>
+	<description>Personal Website</description>
+	<lastBuildDate>Sun, 10 Sep 2023 15:46:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://ivantea-dev.github.io/wp-content/uploads/2023/09/cropped-panda-export-1-32x32.png</url>
+	<title>Gamedev &#8211; ivan_tea</title>
+	<link>https://ivantea-dev.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>&#8220;Pop Off!&#8221; Release! Availability, Development &#038; Personal Experience.</title>
+		<link>https://ivantea-dev.github.io/gamedev/pop-off-release/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 10 Sep 2023 15:23:08 +0000</pubDate>
+				<category><![CDATA[Devlogs]]></category>
+		<category><![CDATA[Gamedev]]></category>
+		<category><![CDATA[Releases]]></category>
+		<guid isPermaLink="false">https://ivantea-dev.github.io/?p=1093</guid>
+
+					<description><![CDATA[A simple game named &#8220;Pop Off!&#8221; is an indie retro-style arcade game that includes three game modes, color schemes and skins. Add impulse to shoot the ball towards enemies. Survive as the game difficulty increases! The game modes are classic, hard and slow. Have fun!  This is the description which I set in Google Play [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1093" class="elementor elementor-1093">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-19344fe elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19344fe" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1480220" data-id="1480220" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e668ee3 elementor-widget elementor-widget-text-editor" data-id="e668ee3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.15.0 - 20-08-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>A simple game named &#8220;Pop Off!&#8221; is an indie retro-style arcade game that includes three game modes, color schemes and skins. Add impulse to shoot the ball towards enemies. Survive as the game difficulty increases! The game modes are classic, hard and slow. Have fun! </p><p>This is the description which I set in Google Play Store. This popping off game is available on itch.io, Play Store and this website. If you want to get right into it, sure! These are the places you can play it from:</p>						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-82e9d58 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="82e9d58" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ccd5c6f" data-id="ccd5c6f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-da448e9 elementor-align-left elementor-widget elementor-widget-button" data-id="da448e9" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-lg" href="https://ivan-teadev.itch.io/pop-off">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">itch.io</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-cb3e103" data-id="cb3e103" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-dd90aad elementor-align-center elementor-widget elementor-widget-button" data-id="dd90aad" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-lg" href="#">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Play Store</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a9cb386" data-id="a9cb386" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-461ce75 elementor-align-right elementor-widget elementor-widget-button" data-id="461ce75" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-lg" href="https://ivantea-dev.github.io/web-games/pop-off/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">My website</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-702e4ad elementor-widget elementor-widget-text-editor" data-id="702e4ad" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> </p><p> </p><p><span style="font-size: 24px;">Actually, that was my first finished game, if we don’t count the one that I made following GDQuest’s tutorial. Not like I don’t finished my games, this is the second game I have started, the first one’s idea was too insane (See Picture 1).</span></p>						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7acaa20 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7acaa20" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-b0e91c5" data-id="b0e91c5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7d8589d elementor-widget elementor-widget-image" data-id="7d8589d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.15.0 - 20-08-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" fetchpriority="high" width="952" height="790" src="https://ivantea-dev.github.io/wp-content/uploads/2023/09/insanity.png" class="attachment-full size-full wp-image-1107" alt="" srcset="https://ivantea-dev.github.io/wp-content/uploads/2023/09/insanity.png 952w, https://ivantea-dev.github.io/wp-content/uploads/2023/09/insanity-300x249.png 300w, https://ivantea-dev.github.io/wp-content/uploads/2023/09/insanity-768x637.png 768w" sizes="(max-width: 952px) 100vw, 952px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-09a1432" data-id="09a1432" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1636614 elementor-widget elementor-widget-text-editor" data-id="1636614" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Picture 1. The oversaturated insanity.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-4e03aec elementor-widget elementor-widget-text-editor" data-id="4e03aec" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>This project started in the mid-July when me and my friend with a very interesting nickname terrort375 decided to create a game so I could show him the basics of Godot, an open-source game engine. For this purpose, the mindset was “keep it simple”. Not only it helped to learn the engine more (for both of us), it made finishing the game easier.</p><p>Oh, finishing the game? I planned to finish it in two weeks, but it has been done only by this point, approximately month later. Typical situation, including the fact it was first big, but small in reality project. Another thing I have learned from this game is that finishing the project is really hard. What I mean by that is that you have to work hard making things that are not the direct parts of the game, like UI and features like customization and publishing. I was tired of the process and I wanted to finish it as soon as possible. And then by the end the structure felt dirty, files were poorly organized, but the only thing I cared about was that it was working. It’s just the lack of experience, I hope this will not repeat in my next project, where I will try to organize things in the beginning.</p><p>Oh, next project? It’s gonna hit! I will post devlogs about it. I will try to get it on Steam and I will make it free! -100$ then, you may think, because Steam submission requires hundred dollars fee. Also, some money will go on the game translation. I will try to get this money from selling the next game to websites, so don’t you worry, I will still make it free! Uhm, hopefully, of course, because no matter how ambicious I am right now, I can’t assure I will be able to make it.</p><p>What fate will “Pop Off!” witness? I am ambicious about this one too muhahahahaha.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
